@@ -1,0 +1,17 @@
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* This ensures the container takes the full height of the viewport */
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 24px; /* Adjust the font size as needed */
+  }
+  
+  span {
+    font-weight: bold; /* Make the span text bold */
+    margin-left: 5px; /* Add some space between the text and the span */
+  }
+  

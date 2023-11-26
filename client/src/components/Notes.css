@@ -1,0 +1,21 @@
+table {
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+  }
+  table td,
+  th {
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+  }
+  
+  #filter {
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  h1 {
+    text-align: center;
+  }
